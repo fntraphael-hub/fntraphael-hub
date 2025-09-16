@@ -1,19 +1,19 @@
 # Ma jolie présentation
 
-## mes activité scolaires
+## Mes activité scolaires
 
-- élève 
+- Elève 
 - Spé Math, NSI
   
-## mes activités extra-scolaires
+## Mes activités extra-scolaires
 
 - Aucune
   
-## mes projets
+## Mes projets
 
--Je suis actuellement sans projet
+- Je suis actuellement sans projet
 
-## mes sites favoris
+## Mes sites favoris
 
 [Académie de Nantes](https://www.ac-nantes.fr)
 
